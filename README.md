@@ -1,4 +1,4 @@
-![Uploading Tesla_logo_PNG6.png…]()
+[Zaid Day 4.txt](https://github.com/user-attachments/files/16831496/Zaid.Day.4.txt)
 
-# GitPro
-Pdf for git knowledge
+# Stored Procedure
+Notepad
